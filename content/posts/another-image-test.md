@@ -1,5 +1,5 @@
 ---
-title: Another image test
+title: Another image test!
 date: 2019-10-20T09:37:26.163Z
 published: true
 tags:
